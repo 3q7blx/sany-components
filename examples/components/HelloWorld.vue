@@ -5,6 +5,7 @@
     <xd-button type="primary">primary</xd-button>
     <xd-button type="warning">warning</xd-button>
     <xd-button type="success">success</xd-button>
+    <SelectSearch />
   </div>
 </template>
 
