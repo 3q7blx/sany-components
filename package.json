@@ -1,6 +1,6 @@
 {
   "name": "sany-uicps",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "基于Vue搭建的一个基础组件库。",
   "main": "lib/xd-test-ui.umd.min.js",
   "private": false,
